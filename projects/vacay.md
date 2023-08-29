@@ -32,4 +32,4 @@ several applications on cloud, completed a capstone project, and
 delivered a Software as a Service (SaaS) solution using Cloud Native
 methodologies
  
-Link to Certification: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/84CUYSJZEQBH">Certification</a>
+Link to Certification: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/84CUYSJZEQBH">IBM Full Stack Developer</a>
