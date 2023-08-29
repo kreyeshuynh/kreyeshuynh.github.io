@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/micromouse/car-review-square.jpg
+image: img/micromouse/car-review-square.png
 title: "Car Dealership Review Web App"
-date: 2015
+date: 2023
 published: true
 labels:
   - Python
