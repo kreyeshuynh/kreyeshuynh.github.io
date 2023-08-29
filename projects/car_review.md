@@ -12,8 +12,8 @@ labels:
 summary: "Developed a full stack car dealership review app with adminstration and login capabilities."
 ---
 
-<div class="text-center p-4">
-  <img src="../img/micromouse/dealership_review_submission.png" class="img-thumbnail" >
+<div class="img-fluid">
+  <img src="../img/micromouse/dealership_review_submission.png" class="img-fluid" >
 </div>
 
 A car dealership review application developed using the Django framework. This comprehensive full stack web app seamlessly integrates user authentication and administrator capabilities, revolutionizing the way automotive businesses are evaluated online.
