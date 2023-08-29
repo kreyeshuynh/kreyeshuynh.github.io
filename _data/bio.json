@@ -7,25 +7,47 @@
     "phone": "808-6747540",
     "website": "https://kreyeshuynh.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2023.",
-    "location": { "address": "", "postalCode": "96707", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "postalCode": "96707",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "kreyeshuynh", "url": "http://github.com/kreyeshuynh" },
-      { "network": "linkedin", "username": "kaianu-reyes-huynh", "url": "https://www.linkedin.com/in/kaianu-reyes-huynh/" },
+      {
+        "network": "github",
+        "username": "kreyeshuynh",
+        "url": "http://github.com/kreyeshuynh"
+      },
+      {
+        "network": "linkedin",
+        "username": "kaianu-reyes-huynh",
+        "url": "https://www.linkedin.com/in/kaianu-reyes-huynh/"
+      }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Mobile Application Development" },
-    { "name": "Front-End Development" },
+    { "name": "Front-End Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "JavaScript", "TypeScript", "Assembly", "Python", "React/ReactNative" ]
+      "keywords": [
+        "C",
+        "C++",
+        "JavaScript",
+        "TypeScript",
+        "Assembly",
+        "Python",
+        "React/ReactNative"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "g++", "Jira" ]
+      "keywords": ["MacOS", "Windows", "Git/GitHub", "g++", "Jira"]
     }
   ],
   "education": [
@@ -33,8 +55,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering",
       "studyType": "B.S.",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
