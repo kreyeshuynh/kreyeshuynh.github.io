@@ -14,7 +14,7 @@ labels:
 summary: "Develop software with front-end development languages and tools such as HTML, CSS, JavaScript, React, and Bootstrap"
 ---
 
-<img class="img-fluid" src="..img/vacay/ibm-full-stack.png">
+<img class="img-fluid" src="../img/vacay/ibm-full-stack.png">
 
 Proficient in React and Django: Completed the IBM Full Stack Web Developer specialization, mastering the creation of modern, responsive web applications using React and Django.
 
