@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kaianu Reyes-Huynh",
-    "label": "Student",
+    "label": "Software Developer",
     "picture": "https://github.com/kreyeshuynh.png",
-    "email": "kaianu@hawaii.edu",
-    "phone": "808-6747540",
+    "email": "kreyeshuynh@gmail.com",
+    "phone": "808-674-7540",
     "website": "https://kreyeshuynh.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "summary": "I am a Computer Engineering major with background in front-end development and mobile automation testing",
     "location": {
       "address": "",
       "postalCode": "96707",
@@ -30,7 +30,8 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Mobile Application Development" },
-    { "name": "Front-End Development" }
+    { "name": "Front-End Development" },
+    { "name": "Cloud Architecture"}
   ],
   "skills": [
     {
@@ -68,7 +69,9 @@
       "summary": "Front-End Mobile and Web Developer",
       "highlights": [
         "Developed features using ReactNative for seamless data storage and sharing",
-        "Implemented an asynchronous data storage feature, enabling sharing of data among users and enhancing overall usability"
+        "Implemented an asynchronous data storage feature, enabling sharing of data among users and enhancing overall usability",
+        "Cross-platform mobile app expertise: Gained hands-on experience in developing a cross-platform mobile application using React Native. Ensured compatibility and optimal performance across iOS and Android platforms, delivering a consistent user experience.",
+        "Agile problem-solving and collaboration skills: Thrived in an Agile development environment as a Software Engineering intern. Collaborated effectively with a multidisciplinary team, resolving technical challenges and contributing to timely project milestones."
       ]
     },
     {
@@ -80,7 +83,8 @@
       "summary": "",
       "highlights": [
         "Tested and validated 15 modified camera exposure datasets, using Python scripts, to ensure correct optimization parameters",
-        "Optimized manual testing of mobile applications by developing & maintaining end-to-end automation test cases comprising 200+ features using Appium"
+        "Optimized manual testing of mobile applications by developing & maintaining end-to-end automation test cases comprising 200+ features using Appium",
+        "Conducted comprehensive testing of camera exposure, white balance, and working distance for over 20 different device/OS combinations to generate datasets for a machine learning algorithm, contributing to 50% increase in correct values read from a phone."
       ]
     }
   ],
