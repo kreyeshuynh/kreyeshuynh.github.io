@@ -11,7 +11,7 @@ labels:
   - React
   - Django
   - Express.js
-summary: "Develop software with front-end development languages and tools such as HTML, CSS, JavaScript, React, and Bootstrap"
+summary: "Develop software with front-end development languages and tools such as HTML, CSS, JavaScript, React, and Django"
 ---
 
 <img class="img-fluid" src="../img/vacay/ibm-full-stack.png">
