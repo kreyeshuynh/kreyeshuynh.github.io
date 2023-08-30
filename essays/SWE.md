@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Why Software Engineering interests me"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-29
 published: true
 labels:
-  - Engineering
+  - Software Engineering 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/swe-header.jpg">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
