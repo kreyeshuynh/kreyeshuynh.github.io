@@ -10,7 +10,7 @@ labels:
   - TypeScript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="..img/smart-questions/JavaScript-Symbol.png">
+<img width="300px" class="rounded float-start pe-4" src="..img/smart-questions/JavaScript-logo.png">
 
 ## Why JavaScript?
 
