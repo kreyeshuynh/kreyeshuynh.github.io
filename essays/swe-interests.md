@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/swe-header.jpg">
 
-Software Engineering was not always known to me as the career choice I wanted to pursue. It took me a long time to understand what Software Engineers do in their day to day. However, through college and learning through internships, I now know that this career is the one I want to pursue. There are three main points on why this career field interests me the most: Technology is growing, creative problem-solving, and life-long learning. 
+Software Engineering was not always known to me as the career choice I wanted to pursue. It took me a long time to understand what Software Engineers do in their day to day. However, through college and learning through internships, I now know that this career is the one I want to pursue. There are three main points on why this career field interests me the most: Technology is growing, creative problem-solving, and life-long learning. These attributes of Software Engineers are essential for a great career and what interests me the most about the profession. 
 
 
 ## Technology is growing
