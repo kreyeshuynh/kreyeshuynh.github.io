@@ -13,6 +13,7 @@ labels:
 
 Software Engineering was not always known to me as the career choice I wanted to pursue. It took me a long time to understand what Software Engineers do in their day to day. However, through college and learning through internships, I now know that this career is the one I want to pursue. There are three main points on why this career field interests me the most: Technology is growing, creative problem-solving, and life-long learning. 
 
+
 ## Technology is growing
 Software Engineers are at the heart of the growing technology of society. Technology has grown so much during the last 30 years, from physical servers and hosting data to cloud technologies where small businesses can have these technologies to now the era of generative AI and machine learning. These technologies are everchanging and evolving and Software Engineers have to adapt to use these technologies as they grow. And to be at the heart of these growing technologies can be very inspiring and seeing how technology can shape the future of our society.
 
