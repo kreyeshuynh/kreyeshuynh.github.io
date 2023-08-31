@@ -3,15 +3,14 @@ layout: essay
 type: essay
 title: "Smart Questions, Good Answers"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2023-08-30
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - JavaScript
+  - TypeScript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="..img/smart-questions/JavaScript-Symbol.png">
 
 ## Is there such thing as a stupid question?
 
