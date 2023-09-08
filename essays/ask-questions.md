@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/question-mark.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/questions-mark.jpg">
 
 Questions can be benefitial or detrimental to your progress of learning. A good question can solve your problem and allow you to not make the mistake in the future. A bad question can leave you more confused than you were in the first place. Stack Overflow is a useful website to allow the community of developers to answer your questions, if you can ask a good one. 
 
