@@ -1,4 +1,4 @@
-----
+---
 layout: essay
 type: essay
 title: "Good questions vs. bad questions"
