@@ -1,23 +1,20 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript, my thoughts so far"
+title: "Why coding standards are so important"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-30
+date: 2023-09-21
 published: true
 labels:
+  - Coding Stadards
   - JavaScript
-  - TypeScript
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/javascript-header.jpg">
 
-## Why JavaScript?
-I have recently gotten more into JavaScript. Through college I mainly focused on C, C++ and Python. However, I was introduced to the language through a certification where I used HTML, CSS and JavaScript and learned more about Front-End web development and used it in the React Framework aswell. So far, I have enjoyed using the language, however, while it does have similar syntax to C, it has the user friendliness of Python. 
+## Importance
+Coding standards are considered to be tedious and time consume, however, if you were to picture software development in a big picture, it turns out that it is very important to all developers. Since writing code can be considered a art form where not everybody does it the same way yet still getting the same outcome, we can see that there will be numerous amounts of differences between developers. Coding standards are there to align styles so that each developer can read other code with ease. 
 
-## JavaScript use in Software Engineering
-The major experience I had learning and using JavaScript was through one of my internships. I was tasked to create UI using React Native. However, the standard for this project was to use TypeScript. TypeScript is a superset of JavaScript which allows for static typing of variables. While this may not be exactly JavaScript, in syntax it is almost the same. JavaScript is a very powerful language in which a majority of web applications is created in which makes it an important tool to learn. 
-
-## FreeCodeCamp Intro to JavaScript
-This introductory course to JavaScript from FreeCodeCamp is a great resource for people who are new as well as people who are experienced and want to learn more. This course did introduce ES6 which is one of the newer versions of JavaScript where they have different standards of coding. In our ICS 314 course we got to use JavaScript through our Workouts of the day (WODs) and we would do challenges from the "Cracking the Coding Interview" book. These practices that are directly from the book are very useful for landing a career and this style of learning of being very active in class is very beneficial to the learning outcomes of students. 
+## JavaScript and ESLint
+By learning JavaScript and learning the language, it can help to use a linter to help you learn the language. By writing well styled code it can allow a developer to learn new things about the language. ESLint is one of those helpers that allow a developer understand where their style can be improved. Ever since I have been using ESLint I can tell how easy the code is to read as well as how easy it is to conform to. Since I have been using this tool as I am learning I am not using any bad habbits throughout my learning process. In today's day and age we can even understand easy it is to abide by these coding standards with the help of the tools we are given. Now a lot of IDE's and text editors can enable these linters and automatically fix your code so that it will abide by ESLint standards. This makes it not only easy to adhere to coding standards but it begs the question: Why wouldn't you use these tools to make your code up to standards?
 
