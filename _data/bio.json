@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Kaianu Reyes-Huynh",
+    "label": "Software Developer",
+    "picture": "https://github.com/kreyeshuynh.png",
+    "email": "kreyeshuynh@gmail.com",
+    "phone": "808-674-7540",
+    "website": "https://kreyeshuynh.github.io",
+    "summary": "I am a Computer Engineering major with background in front-end development and mobile automation testing",
+    "location": {
+      "address": "",
+      "postalCode": "96707",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "kreyeshuynh",
+        "url": "http://github.com/kreyeshuynh"
+      },
+      {
+        "network": "linkedin",
+        "username": "kaianu-reyes-huynh",
+        "url": "https://www.linkedin.com/in/kaianu-reyes-huynh/"
+      }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Mobile Application Development" },
+    { "name": "Front-End Development" },
+    { "name": "Cloud Architecture"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [
+        "C",
+        "C++",
+        "JavaScript",
+        "TypeScript",
+        "Assembly",
+        "Python",
+        "React/ReactNative"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": ["MacOS", "Windows", "Git/GitHub", "g++", "Jira"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering",
+      "studyType": "B.S.",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "DataHouse",
+      "position": "Software Developer Intern",
+      "website": "https://www.datahouse.com/",
+      "startDate": "2023-06-05",
+      "endDate": "Present",
+      "summary": "Front-End Mobile and Web Developer",
+      "highlights": [
+        "Developed features using ReactNative for seamless data storage and sharing",
+        "Implemented an asynchronous data storage feature, enabling sharing of data among users and enhancing overall usability",
+        "Cross-platform mobile app expertise: Gained hands-on experience in developing a cross-platform mobile application using React Native. Ensured compatibility and optimal performance across iOS and Android platforms, delivering a consistent user experience.",
+        "Agile problem-solving and collaboration skills: Thrived in an Agile development environment as a Software Engineering intern. Collaborated effectively with a multidisciplinary team, resolving technical challenges and contributing to timely project milestones."
+      ]
+    },
+    {
+      "company": "TruTags Technologies",
+      "position": "Application Engineering Intern",
+      "website": "https://trutags.com/",
+      "startDate": "2023-01-17",
+      "endDate": "2023-06-01",
+      "summary": "",
+      "highlights": [
+        "Tested and validated 15 modified camera exposure datasets, using Python scripts, to ensure correct optimization parameters",
+        "Optimized manual testing of mobile applications by developing & maintaining end-to-end automation test cases comprising 200+ features using Appium",
+        "Conducted comprehensive testing of camera exposure, white balance, and working distance for over 20 different device/OS combinations to generate datasets for a machine learning algorithm, contributing to 50% increase in correct values read from a phone."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
