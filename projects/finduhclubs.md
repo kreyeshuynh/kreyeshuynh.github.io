@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/landing-page.png
+image: img/view-clubs-page.png
 title: "Find UH Clubs Website"
 date: 2023
 published: true
