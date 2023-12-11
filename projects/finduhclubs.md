@@ -12,7 +12,9 @@ labels:
 summary: "Project to design, implement and deploy a Full-Stack Website for finding UH Clubs"
 ---
 
-<img src="img/view-clubs-page.png">
+<div class="img-fluid">
+  <img src="../img/view-clubs-page.png" class="img-fluid" >
+</div>
 
 A website that allows students to browse a list of clubs and get information on them. The website must also allow club admins that can change what there club page shows, as well as a super admins who can monitor the website for inappropriate content and make regular users into club admins.
 
