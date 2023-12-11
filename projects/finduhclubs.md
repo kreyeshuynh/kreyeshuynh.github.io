@@ -21,4 +21,4 @@ Users should be able to specify interests and be notified when a club is created
 Admins can monitor the website and create new interests.
 
 
-Link to repository: <a href="https://finduhclub.github.io/"><i class="large github icon "></i></a>
+Link to [Website Homepage](https://finduhclub.github.io/)
